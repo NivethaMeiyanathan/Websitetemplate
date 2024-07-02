@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+
+.container{
+    background-image: url("./image/pngtree-d-render-of-beer-bottle-with-blank-label-and-chunks-of-image_3843314.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+/* .btn{
+    background-color: darkblue;
+    border: darkblue;
+    color: white;
+    border-radius: 2px;
+} */
+.copy{
+    text-align: center;
+    bottom: 0;
+    position:absolute;
+    width: 100%;
+    text-align: center;
+    font-size: x-large;
+}
